@@ -53,7 +53,7 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 
 
 **Team**
-- Founder / CEO - Carl Padavano: Real Estate and Mortgage Lending Expert.
+- Founder / CEO - Carl Padavano: Real Estate and Mortgage Lending Expert. 5+ years Experience GPU mining: ETH, ETC, Ravencoin
 
 **Partnerships**
 -Liquidity $UP project:
