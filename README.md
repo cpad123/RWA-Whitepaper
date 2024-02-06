@@ -1,10 +1,10 @@
 # RWA-Whitepaper
 
 **Introduction**
-	Embark on a journey with our NFT project – a gateway for collectors to immerse themselves in the flourishing Real World Asset market. By joining forces with us, you not only enter the thrilling realm of NFTs but also influence the direction of our future beyond a Crypto Mining Business. Your voice matters as you guide the allocation of profits towards targeted investments in tangible assets like Real Estate, Solar Farms, and dynamic commercial developments.
+- Embark on a journey with our NFT project – a gateway for collectors to immerse themselves in the flourishing Real World Asset market. By joining forces with us, you not only enter the thrilling realm of NFTs but also influence the direction of our future beyond a Crypto Mining Business. Your voice matters as you guide the allocation of profits towards targeted investments in tangible assets like Real Estate, Solar Farms, and dynamic commercial developments.
 RWA NFT holders form a vibrant community, acting as the bridge between real-world investments and the revolutionary Koinos blockchain. NFT holders are not direct owners or equity partners in investments, however, your influence in governance decisions positions you to reap the rewards of the RWA investment success.
 
-Project Interests
+**Project Interests**
 - Expand in crypto mining, nodes and hosting services (initial machines will mine Kaspa)
 - Solar Farm Development partnership
 - Office and Retail Development partnership
@@ -12,20 +12,20 @@ Project Interests
 - Establish on chain and off chain partnerships
 - Integration with Koinos: Seamlessly integrate Koinos' free-to-use blockchain into our expanding portfolio.
 
-NFT Minting
+**NFT Minting**
 - Explore our NFT collection on Koinos Raffles and Kollection:
 *	https://dapp.koinosraffles.io/collection/1DDrWPzWZF92sxvX2FuXyKdy4XHXMFaqht
 *	https://kollection.app/collection/1DDrWPzWZF92sxvX2FuXyKdy4XHXMFaqht
 - Seamlessly acquire NFTs; automatic transfer to your wallet on marketplace purchases.
 - 3000 identical NFTs, each holding equal value and significance.
 
-Community and Governance
+**Community and Governance**
 - Leverage your NFT's power with 1 vote out of 3000 in our DAO governance system.
 - Monthly DAO decisions on profit allocation from RWA investments.
 - Your vote directs the success of RWA beyond mining, fostering collaboration.
 
-Investments
-It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee included for all project incomes the DAO invests in.
+**Investments**
+- It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee included for all project incomes the DAO invests in.
 
 Mining Kaspa allocation:
 Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
@@ -43,7 +43,7 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 - Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
 - 128,000 Kaspa remain – Host fee 20% (25,600) = Remaining 102,400 kas for DAO to vote on allocation. About $51,200
 
-Roadmap (2024)
+**Roadmap (2024)**
 - Sell out NFT collection.
 - Optimize hash power with 20 miners running (owned and hosted)
 - Expand project scope beyond crypto miners.
@@ -52,12 +52,12 @@ Roadmap (2024)
 - Pave the way for partnership opportunities, exemplified by real-world ventures.
 
 
-Team
+**Team**
 - Founder / CEO - Carl Padavano: Real Estate and Mortgage Lending Expert.
 
-Partnerships
+**Partnerships**
 -Liquidity $UP project:
-	What we get-
+- What we get:
  - March 2024 airdrop for RWA nft holders, 2,000,000 $UP
  - 10,000,000 -$UP / $USDT LP tokens
  	- 2,500,905 $UP and $1000 $USDT
