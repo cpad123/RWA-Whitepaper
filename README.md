@@ -28,7 +28,8 @@ Investments
 It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee included for all project incomes the DAO invests in.
 
 Mining Kaspa allocation:
-- Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
+Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
+
 - **Estimated example with 1 Machine running for 1 Month:** $0.10 / kas
 - 13,500 Kaspa Mined @$0.10 / kas = $1350
 - Estimated Electric = $350 – (3500 Kaspa sold to pay electric)
@@ -36,7 +37,7 @@ Mining Kaspa allocation:
 - 10,000 Kaspa remain – Host fee 20% (2,000) =  Remaining 8,000 kas for DAO to vote on allocation. About $800
 
 
--** Estimated example with 10 Machine running for 1 Month:** $0.50 / kas
+- **Estimated example with 10 Machine running for 1 Month:** $0.50 / kas
 - 135,000 Kaspa Mined @$0.50 / kas = $67,500
 - Estimated Electric = $3500 – (7,000 Kaspa sold to pay electric)
 - Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
