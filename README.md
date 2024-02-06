@@ -28,18 +28,18 @@ Investments
 It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee included for all project incomes the DAO invests in.
 
 Mining Kaspa allocation:
-Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
-Estimated example with 1 Machine running for 1 Month: $0.10 / kas
-13,500 Kaspa Mined @$0.10 / kas = $1350
-Estimated Electric = $350 – (3500 Kaspa sold to pay electric)
-Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
-10,000 Kaspa remain – Host fee 20% (2,000) =  Remaining 8,000 kas for DAO to vote on allocation. About $800
+- Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
+- Estimated example with 1 Machine running for 1 Month: $0.10 / kas
+- 13,500 Kaspa Mined @$0.10 / kas = $1350
+- Estimated Electric = $350 – (3500 Kaspa sold to pay electric)
+- Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
+- 10,000 Kaspa remain – Host fee 20% (2,000) =  Remaining 8,000 kas for DAO to vote on allocation. About $800
 
-Estimated example with 10 Machine running for 1 Month: $0.50 / kas
-135,000 Kaspa Mined @$0.50 / kas = $67,500
-Estimated Electric = $3500 – (7,000 Kaspa sold to pay electric)
-Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
-128,000 Kaspa remain – Host fee 20% (25,600) = Remaining 102,400 kas for DAO to vote on allocation. About $51,200
+- Estimated example with 10 Machine running for 1 Month: $0.50 / kas
+- 135,000 Kaspa Mined @$0.50 / kas = $67,500
+- Estimated Electric = $3500 – (7,000 Kaspa sold to pay electric)
+- Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
+- 128,000 Kaspa remain – Host fee 20% (25,600) = Remaining 102,400 kas for DAO to vote on allocation. About $51,200
 
 Roadmap (2024)
 - Sell out NFT collection.
@@ -56,15 +56,14 @@ Team
 Partnerships
 -Liquidity $UP project:
 	What we get-
-  •	March 2024 airdrop for RWA nft holders, 2,000,000 $UP
-  •	10,000,000 -$UP / $USDT LP tokens 
-    o	2,500,905 $UP and $1000 $USDT 
-    o	Distributed to RWA nft holders between 3/15/2024-3/14/2025
+ - March 2024 airdrop for RWA nft holders, 2,000,000 $UP
+ - 10,000,000 -$UP / $USDT LP tokens
+ 	- 2,500,905 $UP and $1000 $USDT
+  	- Distributed to RWA nft holders between 3/15/2024-3/14/2025
 What we give-
-  •	8,000 RWA tokens for liquidity
-  •	40 RWA nft will be relisted for sale for 125,000 $UP /nft
-    o	Sale proceeds held for, burn, airdrop, assist Liquidity project
-
+- 8,000 RWA tokens for liquidity
+- 40 RWA nft will be relisted for sale for 125,000 $UP /nft
+	- Sale proceeds held for, burn, airdrop, assist Liquidity project
 
 
 RWA Token
@@ -79,8 +78,8 @@ RWA Token
 
 Contact Information
 Join the conversation on:
-	-Discord: https://discord.gg/TNM8DSWyf5
-	-Email: RWAssets1@yahoo.com
-	-Twitter (X): https://twitter.com/RWAssets1
+- Discord: https://discord.gg/TNM8DSWyf5
+- Email: RWAssets1@yahoo.com
+- Twitter (X): https://twitter.com/RWAssets1
 
 Embark on this unique NFT journey, where your influence shapes the future of Real World Asset investments. Don't just own an NFT; become a driving force in the evolution of our community-driven ecosystem. Secure your NFT now and be part of something extraordinary!
