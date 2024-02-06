@@ -1,7 +1,7 @@
 # RWA-Whitepaper
 
-Introduction
-Embark on a journey with our NFT project – a gateway for collectors to immerse themselves in the flourishing Real World Asset market. By joining forces with us, you not only enter the thrilling realm of NFTs but also influence the direction of our future beyond a Crypto Mining Business. Your voice matters as you guide the allocation of profits towards targeted investments in tangible assets like Real Estate, Solar Farms, and dynamic commercial developments.
+**Introduction**
+	Embark on a journey with our NFT project – a gateway for collectors to immerse themselves in the flourishing Real World Asset market. By joining forces with us, you not only enter the thrilling realm of NFTs but also influence the direction of our future beyond a Crypto Mining Business. Your voice matters as you guide the allocation of profits towards targeted investments in tangible assets like Real Estate, Solar Farms, and dynamic commercial developments.
 RWA NFT holders form a vibrant community, acting as the bridge between real-world investments and the revolutionary Koinos blockchain. NFT holders are not direct owners or equity partners in investments, however, your influence in governance decisions positions you to reap the rewards of the RWA investment success.
 
 Project Interests
