@@ -25,7 +25,7 @@ RWA NFT holders form a vibrant community, acting as the bridge between real-worl
 - Your vote directs the success of RWA beyond mining, fostering collaboration.
 
 **Investments**
-- It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee included for all project incomes the DAO invests in.
+- It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee.
 
 Mining Kaspa allocation:
 Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
