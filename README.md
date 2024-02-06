@@ -68,7 +68,7 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 		- Sale proceeds held for, burn, airdrop, assist Liquidity project
 
 
-RWA Token
+**RWA Token**
 - Max supply: 807,200 RWA tokens.
 - Network: Koinos
 - Contract address: 1H1tWd95HvL2wT25qpXrVMosGdGUNPRFiA
@@ -83,5 +83,6 @@ Join the conversation on:
 - Discord: https://discord.gg/TNM8DSWyf5
 - Email: RWAssets1@yahoo.com
 - Twitter (X): https://twitter.com/RWAssets1
+- https://github.com/cpad123/RWA-Whitepaper/blob/main/README.md
 
-Embark on this unique NFT journey, where your influence shapes the future of Real World Asset investments. Don't just own an NFT; become a driving force in the evolution of our community-driven ecosystem. Secure your NFT now and be part of something extraordinary!
+This unique NFT journey, where your influence shapes the future of Real World Asset investments. Don't just own an NFT; become a driving force in the evolution of our community-driven ecosystem. Secure your NFT now and be part of something extraordinary!
