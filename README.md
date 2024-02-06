@@ -58,14 +58,14 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 **Partnerships**
 -Liquidity $UP project:
 - What we get:
- - March 2024 airdrop for RWA nft holders, 2,000,000 $UP
- - 10,000,000 -$UP / $USDT LP tokens
- 	- 2,500,905 $UP and $1000 $USDT
-  	- Distributed to RWA nft holders between 3/15/2024-3/14/2025
-What we give-
-- 8,000 RWA tokens for liquidity
-- 40 RWA nft will be relisted for sale for 125,000 $UP /nft
-	- Sale proceeds held for, burn, airdrop, assist Liquidity project
+ 	- March 2024 airdrop for RWA nft holders, 2,000,000 $UP
+ 	- 10,000,000 -$UP / $USDT LP tokens
+ 		- 2,500,905 $UP and $1000 $USDT
+  		- Distributed to RWA nft holders between 3/15/2024-3/14/2025
+- What we give:
+	- 8,000 RWA tokens for liquidity
+ 	- 40 RWA nft will be relisted for sale for 125,000 $UP /nft
+		- Sale proceeds held for, burn, airdrop, assist Liquidity project
 
 
 RWA Token
