@@ -1,5 +1,5 @@
 # RWA-Whitepaper
-Description of Project
+
 Introduction
 Embark on a journey with our NFT project – a gateway for collectors to immerse themselves in the flourishing Real World Asset market. By joining forces with us, you not only enter the thrilling realm of NFTs but also influence the direction of our future beyond a Crypto Mining Business. Your voice matters as you guide the allocation of profits towards targeted investments in tangible assets like Real Estate, Solar Farms, and dynamic commercial developments.
 RWA NFT holders form a vibrant community, acting as the bridge between real-world investments and the revolutionary Koinos blockchain. NFT holders are not direct owners or equity partners in investments, however, your influence in governance decisions positions you to reap the rewards of the RWA investment success.
@@ -29,13 +29,14 @@ It is in the project’s interest to capitalize on available investment opportun
 
 Mining Kaspa allocation:
 - Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
-- Estimated example with 1 Machine running for 1 Month: $0.10 / kas
+- **Estimated example with 1 Machine running for 1 Month:** $0.10 / kas
 - 13,500 Kaspa Mined @$0.10 / kas = $1350
 - Estimated Electric = $350 – (3500 Kaspa sold to pay electric)
 - Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
 - 10,000 Kaspa remain – Host fee 20% (2,000) =  Remaining 8,000 kas for DAO to vote on allocation. About $800
 
-- Estimated example with 10 Machine running for 1 Month: $0.50 / kas
+
+-** Estimated example with 10 Machine running for 1 Month:** $0.50 / kas
 - 135,000 Kaspa Mined @$0.50 / kas = $67,500
 - Estimated Electric = $3500 – (7,000 Kaspa sold to pay electric)
 - Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
