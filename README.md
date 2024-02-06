@@ -79,8 +79,8 @@ RWA Token
 
 Contact Information
 Join the conversation on:
--Discord: https://discord.gg/TNM8DSWyf5
--Email: RWAssets1@yahoo.com
--Twitter (X): https://twitter.com/RWAssets1
+	-Discord: https://discord.gg/TNM8DSWyf5
+	-Email: RWAssets1@yahoo.com
+	-Twitter (X): https://twitter.com/RWAssets1
 
 Embark on this unique NFT journey, where your influence shapes the future of Real World Asset investments. Don't just own an NFT; become a driving force in the evolution of our community-driven ecosystem. Secure your NFT now and be part of something extraordinary!
