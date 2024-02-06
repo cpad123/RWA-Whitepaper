@@ -25,7 +25,8 @@ RWA NFT holders form a vibrant community, acting as the bridge between real-worl
 - Your vote directs the success of RWA beyond mining, fostering collaboration.
 
 **Investments**
-- It is in the project’s interest to capitalize on available investment opportunities allowing for larger future gains.  The NFT sales only lay the foundation of passive investments.  Remaining profits received from mining will be allocated in the manner the DAO votes.  Profits are recognized as amounts remaining after expenses and tax obligations.  There will be a 20% host fee.
+- NFT proceeds will be used towards establishing Kaspa (POW) mining
+- Shares will be earned in Kaspa, and the amount remaining after expenses will be directed in the manner the DAO votes.
 
 Mining Kaspa allocation:
 Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - remaining 100% DAO
@@ -53,7 +54,7 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 
 
 **Team**
-- Founder / CEO - Carl Padavano: Real Estate and Mortgage Lending Expert. 5+ years Experience GPU mining: ETH, ETC, Ravencoin
+- Founder / CEO - Carl Padavano: Real Estate and Mortgage Lending Expert.  5+ years Experience GPU mining: ETH, ETC, Ravencoin
 
 **Partnerships**
 -Liquidity $UP project:
