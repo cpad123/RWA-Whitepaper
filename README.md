@@ -44,10 +44,9 @@ Gross Received – Electric Expenses – Tax Obligations – Host Fee 20% - rema
 - Tax Estimate (unknown) dependent on how DAO votes for gains to be deployed
 - 128,000 Kaspa remain – Host fee 20% (25,600) = Remaining 102,400 kas for DAO to vote on allocation. About $51,200
 
-**Roadmap (2024)**
+**Roadmap (2026)**
 - Sell out NFT collection.
-- Optimize hash power with 20 miners running (owned and hosted)
-- Expand project scope beyond crypto miners.
+- Optimize hash power with rentable Koinos miners.
 - Establish seamless voting integrations with NFT collection
 - Execute DAO-voted action plans.
 - Pave the way for partnership opportunities, exemplified by real-world ventures.
